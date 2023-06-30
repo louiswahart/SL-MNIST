@@ -1,6 +1,8 @@
 # SL-MNIST
 Sign Language MNIST (99%+ validation accuracy after 10 epochs)
 
+![amer_sign2](https://github.com/louiswahart/SL-MNIST/assets/57922039/73a82791-47a8-4174-b2a3-c67665e6d8d1)
+
 Kaggle link: https://www.kaggle.com/datasets/datamunge/sign-language-mnist
 
 Model architecture:
